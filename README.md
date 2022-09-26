@@ -1,6 +1,6 @@
 <!-- 招呼词-动态打字效果 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22hello兄弟盟!%22;又是平平无奇emo的一天!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22又是做白日梦的一天~&center=true&size=27">
 </h1>
 
 <!-- 个人介绍 -->
@@ -18,10 +18,8 @@
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/casual-silva/NewsCrawl">
+<a href="https://github.com/dreamOfDay/easy-starters">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=casual-silva&repo=NewsCrawl&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/casual-silva/ppyolo-captcha">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=casual-silva&repo=ppyolo-captcha&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 💪 正在学习: 
