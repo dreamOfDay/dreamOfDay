@@ -13,7 +13,7 @@
 
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/dreamOfDay/dreamOfDay/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/dreamOfDay/dreamOfDay/assets/github-contribution-grid-snake.svg" /></div>
 
 
 <!-- 比较好的开源项目卡片 -->
