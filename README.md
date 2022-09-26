@@ -6,7 +6,7 @@
 <!-- 个人介绍 -->
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，我是dreamOfDay，日常做白日梦的不知名工程师, 目前正在学习 golang,k8s; 热爱计算机科学和IT互联网事业，努力让白日梦成真~</p>
+<p>✍️&nbsp;&nbsp;大家好，我是dreamOfDay，日常做白日梦的不知名工程师, 目前正在学习 golang,k8s， 热爱计算机科学和IT互联网事业，努力让白日梦成真~</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;勤能补拙, 春华秋实, 努力一定会有收获, 我们都将深耕在这片土地 ...</p>
@@ -19,7 +19,7 @@
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
 <a href="https://github.com/dreamOfDay/easy-starters">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=casual-silva&repo=NewsCrawl&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dreamOfDay&repo=easy-starters&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 💪 正在学习: 
@@ -30,8 +30,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![K8s](https://img.shields.io/badge/-k8s-blue?style=flat-square&logo=Kubernetes&color=white&logoColor=#326CE5)
 <!-- 🧠 计划学习 -->
 
 
@@ -54,13 +54,6 @@
   <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
 </div>
-
-<!-- just img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
-
-<!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-
 
 
 <!-- GitHub奖杯🏆 -->
